@@ -7,3 +7,4 @@ Behance_Item_to_Owners.gz
 *.pdf
 DT_TfIDF
 *.model
+data/
