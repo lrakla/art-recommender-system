@@ -9,3 +9,4 @@ DT_TfIDF
 *.model
 *.png
 *.npy
+data/
